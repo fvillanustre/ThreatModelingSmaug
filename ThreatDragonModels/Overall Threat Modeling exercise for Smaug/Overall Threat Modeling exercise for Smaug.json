@@ -1,0 +1,12 @@
+{
+  "summary": {
+    "title": "Overall Threat Modeling exercise for Smaug",
+    "owner": "Flavio",
+    "description": "This is a three tier semi-conventional web application"
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [],
+    "reviewer": "Flavio"
+  }
+}
