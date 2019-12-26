@@ -6,13 +6,7 @@
   },
   "detail": {
     "contributors": [],
-    "diagrams": [
-      {
-        "title": "Dataflow diagram",
-        "thumbnail": "./public/content/images/thumbnail.jpg",
-        "id": 0
-      }
-    ],
+    "diagrams": [],
     "reviewer": "Flavio"
   }
 }
